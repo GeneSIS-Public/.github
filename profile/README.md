@@ -1,73 +1,45 @@
 # GeneSIS
 
+[English](./README_EN.md)
+
 > **人間側に、AIとの継続性を作る。**
 
-GeneSISは、人間とAIの間に生まれる対話、思考、記憶および知識を、一時的な利用で終わらせず、人間側の管理下で継続可能な資産として扱うための開発・運営主体です。
+GeneSISは、人間とAIの間に生まれる対話、思考、記録および知識を、人間側で継続して扱うための個人開発Projectです。
 
-このGitHub Organization「GeneSIS-Public」は、GeneSISおよびProject: Code-NOAHに関する公式技術情報、Release情報および公開文書を掲載するための領域です。
+1名のGeneSIS-OperatorがAIを補助的に利用して開発・運営し、公開、条件および対応に関する最終判断を行います。
 
-**GeneSIS: Concept Engineer's HQ.**
+このOrganization `GeneSIS-Public` は、GeneSISとProject: Code-NOAHに関する**技術情報と公式文書**を公開する領域です。
 
----
+## Project: Code-NOAH
 
-## Projects
+Project: Code-NOAHは、AIとの継続性、記録、再接続および人間側の管理構造を扱うProjectです。
 
-### Project: Code-NOAH
+### G.E.N.E
 
-人間とAIの継続性、記録、再接続およびOperator主導のAI運用を扱うProjectです。
+G.E.N.Eは、AIとの対話をLocal Dataとして記録・運用するための、Windows x64向けローカルAI対話環境です。
 
-#### G.E.N.E
+G.E.N.EはLLM本体ではありません。Ollama等の外部ローカルLLM環境とModelへ接続して使用します。
 
-G.E.N.Eは、AIとの対話を一時的なChatで終わらせず、話者、由来、原文および文脈を保持したローカル資産として記録するためのローカルAI対話環境です。
+- [G.E.N.E公式Repository](https://github.com/GeneSIS-Public/G.E.N.E)
 
-G.E.N.EはLLMモデル本体ではありません。
+Source Codeは公開していません。
 
-OllamaなどのローカルLLM環境へ接続し、Persona、History、Summary、KnowledgeおよびReferenceをOperator自身の管理下で運用します。
+## Official Media
 
----
+このProfileおよびG.E.N.E Repositoryで媒体名とURLを明示するものを、GeneSISの公式媒体として扱います。
 
-## Official Repositories
+各媒体上の表示名は、媒体の仕様または表示上の制約に応じて異なる場合があります。公式性は表示名の完全一致ではなく、ここで明示するURLによって確認してください。
 
-### [G.E.N.E](https://github.com/GeneSIS-Public/G.E.N.E)
+| 目的 | 公式媒体 |
+|---|---|
+| 技術情報・公式文書 | [GitHub](https://github.com/GeneSIS-Public) |
+| BOOTH公式Shop | [GeneSIS_Protocol_Official](https://genesis-protocol.booth.pm/) |
+| G.E.N.E無料配布 | [無料商品ページ](https://genesis-protocol.booth.pm/items/8663637) |
+| Phase 1 Founder Support | [Founder商品ページ](https://genesis-protocol.booth.pm/items/8664431) |
+| 思想・開発背景・連載・公式声明 | [note](https://note.com/genesis_protocol) |
+| 告知・宣伝・開発進捗 | [X](https://x.com/GeneSIS_PRCL) |
 
-G.E.N.Eに関する公式README、Release情報、検証情報、Known Limitations、Support Policyおよび公開可能な技術情報を掲載します。
-
-G.E.N.EのSource Codeは公開しません。
-
----
-
-## Current Status
-
-**G.E.N.E Alpha v1.0**
-
-正式Release Packageの開発、試験およびArchive保存は完了しています。
-
-現在、GeneSISによる一般公開準備を進めています。
-
----
-
-## Organization Structure
-
-```text
-GeneSIS
-└─ Project: Code-NOAH
-   └─ G.E.N.E
-```
-
-* Developer / Brand：GeneSIS
-* GitHub Organization：GeneSIS-Public
-* Project：Project: Code-NOAH
-* Product：G.E.N.E Alpha v1.0
-
----
-
-## Contact and Support
-
-公開可能で再現性のある技術的不具合については、各公式RepositoryのGitHub Issuesを使用します。
-
-購入、利用条件、権利、Founder資格、個人情報、非公開不具合およびSecurity上の懸念については、GeneSIS公式窓口で受け付けます。
-
-正式なSupport Policyおよび問い合わせ先は、G.E.N.Eの一般公開時に公式Repositoryへ掲載します。
+**GeneSIS by Concept Engineer's HQ.**
 
 ---
 
