@@ -38,6 +38,7 @@ Display names may differ between platforms because of platform specifications or
 | Phase 1 Founder Support | [Founder product page](https://genesis-protocol.booth.pm/items/8664431) |
 | Philosophy, development background, serial publications, and official statements | [note](https://note.com/genesis_protocol) |
 | Announcements, promotion, and development progress | [X](https://x.com/GeneSIS_PRCL) |
+| Videos, Explanations, and Information | [Official YouTube Channel](https://www.youtube.com/channel/UCFZC86OLvWEd7z4M9PLF98g) |
 
 **GeneSIS by Concept Engineer's HQ.**
 
