@@ -47,15 +47,18 @@ Display names may differ between platforms because of platform specifications or
 ### GitHub Issue Forms
 
 - For bug reports, documentation feedback, and development feedback that can be made public, please use the Issue Forms on GitHub.
+
 → [GeneSIS-Public: G.E.N.E](https://github.com/GeneSIS-Public/G.E.N.E)
 
 - For details on how to make inquiries and the scope of support, please refer to the link below.
+
 → [CONTACT_AND_SUPPORT](https://github.com/GeneSIS-Public/G.E.N.E/blob/main/docs/CONTACT_AND_SUPPORT.md)
 
 
 ### Questions & Support
 
 - For quick or casual questions, please share them in the comments section of our note article.
+
 → [GeneSIS_簡易窓口](https://note.com/genesis_protocol/n/n6a2a06ad2698?app_launch=false)
 
 ### Official Contact (Private Inquiries)
