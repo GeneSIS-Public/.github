@@ -40,6 +40,32 @@ Display names may differ between platforms because of platform specifications or
 | Announcements, promotion, and development progress | [X](https://x.com/GeneSIS_PRCL) |
 | Videos, Explanations, and Information | [Official YouTube Channel](https://www.youtube.com/channel/UCFZC86OLvWEd7z4M9PLF98g) |
 
+---
+
+## Official Contact Channels
+
+### GitHub Issue Forms
+
+- For bug reports, documentation feedback, and development feedback that can be made public, please use the Issue Forms on GitHub.
+→ [GeneSIS-Public: G.E.N.E](https://github.com/GeneSIS-Public/G.E.N.E)
+
+- For details on how to make inquiries and the scope of support, please refer to the link below.
+→ [CONTACT_AND_SUPPORT](https://github.com/GeneSIS-Public/G.E.N.E/blob/main/docs/CONTACT_AND_SUPPORT.md)
+
+
+### Questions & Support
+
+- For quick or casual questions, please share them in the comments section of our note article.
+→ [GeneSIS_簡易窓口](https://note.com/genesis_protocol/n/n6a2a06ad2698?app_launch=false)
+
+### Official Contact (Private Inquiries)
+
+- For inquiries involving personal information, verification of Founder purchase records, rights/privacy concerns, or security vulnerabilities not suitable for public disclosure, please contact our official email address
+
+genesis.official.poc@mail.com
+
+Please note that i may not be able to guarantee a reply or individual support for all inquiries, depending on the nature of the content.
+
 **GeneSIS by Concept Engineer's HQ.**
 
 ---
