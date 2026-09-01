@@ -40,6 +40,37 @@ Source Codeは公開していません。
 | 告知・宣伝・開発進捗 | [X](https://x.com/GeneSIS_PRCL) |
 | 動画・説明・案内 | [Youtube公式チャンネル](https://www.youtube.com/channel/UCFZC86OLvWEd7z4M9PLF98g) |
 
+---
+
+## 公式お問い合わせ窓口
+
+### GitHub Issue Forms
+
+公開可能な不具合報告、文書Feedback、開発Feedbackは、GitHub上のIssue Formsをご利用ください。
+
+[GeneSIS-Public: G.E.N.E](https://github.com/GeneSIS-Public/G.E.N.E)
+
+問い合わせ方法と対応範囲の詳細についてはこちらをご覧ください。
+
+→ [CONTACT_AND_SUPPORT](https://github.com/GeneSIS-Public/G.E.N.E/blob/main/docs/CONTACT_AND_SUPPORT.md)
+
+### 簡易窓口
+
+簡易的質問はこちらの窓口へお寄せください。
+
+→ [GeneSIS_簡易窓口](https://note.com/genesis_protocol/n/n6a2a06ad2698?app_launch=false)
+
+
+### 非公開情報を含むお問い合わせ
+
+個人情報を含む問い合わせ、Founder購入記録の確認、権利・Privacyに関する連絡、公開に適さないSecurity情報は、以下の公式窓口へご連絡ください。
+
+genesis.official.poc@mail.com
+
+内容によっては、返信や個別対応を保証できない場合があります。
+
+---
+
 **GeneSIS by Concept Engineer's HQ.**
 
 ---
